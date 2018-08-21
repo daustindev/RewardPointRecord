@@ -1,0 +1,14 @@
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.exe.config
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.exe
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.pdb
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.exe
+C:\Users\Doug\Desktop\Charter test\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.pdb
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.exe.config
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.exe
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\bin\Debug\RewardPointRecord.pdb
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.csproj.CoreCompileInputs.cache
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.exe
+C:\Users\Doug\Desktop\Charter test\chartertest\RewardPointRecord\RewardPointRecord\obj\Debug\RewardPointRecord.pdb
